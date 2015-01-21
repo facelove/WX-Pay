@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/pay/pay_integration_rep/!svn/ver/3026/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c
+END
+clientCheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/pay/pay_integration_rep/!svn/ver/1678/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/clientCheck.php
+END
+clientQueryTrans.php
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/pay/pay_integration_rep/!svn/ver/681/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/clientQueryTrans.php
+END
+payReturnUrl.php
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/pay/pay_integration_rep/!svn/ver/2902/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/payReturnUrl.php
+END
+clientRefund.php
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/pay/pay_integration_rep/!svn/ver/3026/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/clientRefund.php
+END
+payRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/pay/pay_integration_rep/!svn/ver/2868/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/payRequest.php
+END
+payNotifyUrl.php
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/pay/pay_integration_rep/!svn/ver/651/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/payNotifyUrl.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/pay/pay_integration_rep/!svn/ver/1678/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/index.php
+END
+clientQueryRefund.php
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/pay/pay_integration_rep/!svn/ver/990/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/php/tenpay_api_b2c/clientQueryRefund.php
+END

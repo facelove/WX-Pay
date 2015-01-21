@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/pay/pay_integration_rep/!svn/ver/3026/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c
+END
+payNotifyUrl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/pay/pay_integration_rep/!svn/ver/2881/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/payNotifyUrl.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/pay/pay_integration_rep/!svn/ver/1681/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/index.jsp
+END
+refundQuery.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/pay/pay_integration_rep/!svn/ver/2163/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/refundQuery.jsp
+END
+DownloadBill.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/pay/pay_integration_rep/!svn/ver/1681/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/DownloadBill.jsp
+END
+clientQueryTrans.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/pay/pay_integration_rep/!svn/ver/923/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/clientQueryTrans.jsp
+END
+payReturnUrl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/pay/pay_integration_rep/!svn/ver/2902/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/payReturnUrl.jsp
+END
+clientRefund.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/pay/pay_integration_rep/!svn/ver/3026/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/clientRefund.jsp
+END
+payRequest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/pay/pay_integration_rep/!svn/ver/2868/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/java/jsp/tenpay_api_b2c/payRequest.jsp
+END

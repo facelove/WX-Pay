@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/pay/pay_integration_rep/!svn/ver/3187/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c
+END
+payNotifyUrl.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/payNotifyUrl.aspx
+END
+payRequest.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/pay/pay_integration_rep/!svn/ver/2868/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/payRequest.aspx.cs
+END
+index.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/index.aspx
+END
+Web.Config
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/Web.Config
+END
+clientQueryRefund.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/pay/pay_integration_rep/!svn/ver/957/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientQueryRefund.aspx
+END
+payNotifyUrl.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/pay/pay_integration_rep/!svn/ver/954/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/payNotifyUrl.aspx.cs
+END
+tenpay_api_b2c.suo
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/pay/pay_integration_rep/!svn/ver/1680/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpay_api_b2c.suo
+END
+index.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/pay/pay_integration_rep/!svn/ver/954/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/index.aspx.cs
+END
+clientQueryTrans.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientQueryTrans.aspx
+END
+clientQueryRefund.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/pay/pay_integration_rep/!svn/ver/1033/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientQueryRefund.aspx.cs
+END
+clientCheck.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/pay/pay_integration_rep/!svn/ver/1680/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientCheck.aspx
+END
+payReturnUrl.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/payReturnUrl.aspx
+END
+clientTest.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/pay/pay_integration_rep/!svn/ver/957/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientTest.aspx
+END
+clientQueryTrans.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/pay/pay_integration_rep/!svn/ver/954/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientQueryTrans.aspx.cs
+END
+clientCheck.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/pay/pay_integration_rep/!svn/ver/1680/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientCheck.aspx.cs
+END
+payReturnUrl.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/pay/pay_integration_rep/!svn/ver/2902/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/payReturnUrl.aspx.cs
+END
+clientTest.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/pay/pay_integration_rep/!svn/ver/957/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientTest.aspx.cs
+END
+clientRefund.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/pay/pay_integration_rep/!svn/ver/957/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientRefund.aspx
+END
+clientRefund.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/pay/pay_integration_rep/!svn/ver/3026/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/clientRefund.aspx.cs
+END
+tenpay_api_b2c.sln
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpay_api_b2c.sln
+END
+payRequest.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/payRequest.aspx
+END

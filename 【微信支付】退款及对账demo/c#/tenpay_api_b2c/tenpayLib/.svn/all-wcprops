@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/pay/pay_integration_rep/!svn/ver/3187/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib
+END
+ClientResponseHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/ClientResponseHandler.cs
+END
+ResponseHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/ResponseHandler.cs
+END
+TenpayUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/TenpayUtil.cs
+END
+TenpayHttpClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/TenpayHttpClient.cs
+END
+tenpayLib.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/pay/pay_integration_rep/!svn/ver/1680/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/tenpayLib.csproj
+END
+MD5Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/pay/pay_integration_rep/!svn/ver/491/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/MD5Util.cs
+END
+CheckRequestHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/pay/pay_integration_rep/!svn/ver/1680/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/CheckRequestHandler.cs
+END
+RequestHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/pay/pay_integration_rep/!svn/ver/3187/integration_document_proj/trunk/%E9%9B%86%E6%88%90/%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3/%E5%8D%B3%E6%97%B6%E5%88%B0%E8%B4%A6API/c%23/tenpay_api_b2c/tenpayLib/RequestHandler.cs
+END
